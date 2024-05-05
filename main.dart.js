@@ -88252,7 +88252,7 @@ $1(a){var s=a.a,r=J.al(s)
 return new A.pl(A.b_(r.h(s,"debtNum")),A.b_(r.h(s,"allCustomerNum")),A.b4(r.h(s,"percent")))},
 $S:557}
 A.ahs.prototype={
-$1(a){return A.ahv(a.a,"newCutomerDTOList")},
+$1(a){return A.ahv(a.a,"newCustomerDTOList")},
 $S:71}
 A.aht.prototype={
 $1(a){var s=a.a,r=J.al(s)
